@@ -1,2 +1,2 @@
-# Lung_cancer_exploration
-This repository look to do data exploration analysis of a dataset about lung cancer
+# dataset_name_exploration
+This repository do data exploration analysis of [subject] dataset
