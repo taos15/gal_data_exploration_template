@@ -160,3 +160,27 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS metadata
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+
+# macOS temporary files
+.TemporaryItems
+.Df%*
+.FBCIndex
+.FBC~Index
+.TFS+*
+.HFS+ Private Directory Data*
+
+# macOS Finder metadata
+.fseventsd
+
+# macOS Resource Forks
+.DS_Store?
